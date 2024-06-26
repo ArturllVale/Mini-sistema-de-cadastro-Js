@@ -1,5 +1,7 @@
 # Mini sistema de cadastro em JS
 - Essas informações são encontradas no Header do script
+Requerimentos:<br>
+`npm install prompt-sync`
 
 Esse checklist foi criado por mim antes de tudo para me servir de guia.<br>
 • [x] Mini-sistema de cadastro de usuários na Academia Fictícia<br>
