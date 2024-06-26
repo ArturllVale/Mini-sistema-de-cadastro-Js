@@ -1,5 +1,5 @@
 # Mini sistema de cadastro em JS
-- Essas informações são encontradas no Header do script
+- Essas informações são encontradas no Header do script<br>
 Requerimentos:<br>
 `npm install prompt-sync`
 
