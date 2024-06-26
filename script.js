@@ -79,7 +79,6 @@ function consultarNome() {
         console.log(`Sexo: ${usuario.sexo}`);
         console.log(`Treino: ${usuario.treino}`);
         console.log("----------------------------\n");
-        // console.log("==========================\n")
     } else {
         console.log("\n")
         console.log("-------------------------------");
